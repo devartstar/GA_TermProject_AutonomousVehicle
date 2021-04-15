@@ -1,7 +1,9 @@
 # Adaptive Navigation of Automated Vehicles
 
 A neural network powered vehicle that drives around a randomly-generated path without hitting the walls.
-[Lets Check it out working online](https://devartstar.github.io/GA_TermProject_AutonomousVehicle/)
+
+
+[Check it out working online](https://devartstar.github.io/GA_TermProject_AutonomousVehicle/)
 
 Uses the [p5.js](https://p5js.org/) and [TensorFlow.js](https://www.tensorflow.org/js) libraries.
 
