@@ -1,5 +1,4 @@
-// Daniel Shiffman
-// Neuro-Evolution Steering
+
 
 function nextGeneration() {
   console.log('next generation');
